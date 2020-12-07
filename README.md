@@ -3,20 +3,16 @@ This is a spamming tool, to get leads.
 
 ## Usage 
 
-### TERMUX 
-```bash
-pkg update && pkg upgrade
-pip install python
-git clone https://github.com/Crevils/mailextract 
-cd mailextract
-python app.py
-```
-
-### TERMUX 
+### WINDOWS/LINUX 
 + Download This Script Or Clone
 ```bash
 python app.py
 ```
+
+## IMPORTANT
++ Still not available for android
++ Works in windows and linux
++ Phone No. Feature is under developement
 
 # Screenshot
 + Home
