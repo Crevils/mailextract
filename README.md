@@ -2,8 +2,6 @@
 This is a spamming tool, to get leads.
 
 ## Usage 
-
-### WINDOWS/LINUX 
 + Download This Script Or Clone
 ```bash
 python app.py
